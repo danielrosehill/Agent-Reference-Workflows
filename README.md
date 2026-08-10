@@ -113,3 +113,16 @@ A repo that is only a prompt, only a template, or only a finished result belongs
 elsewhere — see [Claude-Code-Repos-Index](https://github.com/danielrosehill/Claude-Code-Repos-Index)
 for the full collection, and [Subindices](https://github.com/danielrosehill/Subindices)
 for the other indexes.
+
+## Deliberate overlap with the domain indexes
+
+This index cuts by **artifact type** — "a worked run of a workflow" — while the
+domain indexes cut by **subject**. So entries appear in both, on purpose.
+
+Most relevant:
+**[Agent-Assisted-Purchase-Research-Index](https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index)**
+collects everything about agent-driven purchase research — skills, templates,
+plugins and demos. `Agentic-Purchase-Pipeline` is listed there as a demo of that
+domain, and here as a reference workflow. Neither listing is redundant: one
+answers *"what do I have for buying things?"*, the other answers *"show me a
+workflow that was actually run, including where it broke."*
