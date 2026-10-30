@@ -1,4 +1,4 @@
-[![Claude Code Project](https://img.shields.io/badge/Claude%20Code-Project-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Claude Code Project](https://img.shields.io/badge/Claude%20Code-Project-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Projects-Index)
 
 # Agent Reference Workflows
 
@@ -7,6 +7,8 @@
 These are not tutorials and not templates. Each one is a record of an agentic
 workflow actually being run on a real task — the sequence that worked, the wrong
 turns, and the places the process fell short.
+
+**Last Updated:** October 2026
 
 ## Why keep these as an index
 
@@ -110,7 +112,7 @@ A repo belongs here if it:
 4. Names the point at which a **human is still required**
 
 A repo that is only a prompt, only a template, or only a finished result belongs
-elsewhere — see [Claude-Code-Repos-Index](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+elsewhere — see [Claude-Code-Repos-Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)
 for the full collection, and [Subindices](https://github.com/danielrosehill/Subindices)
 for the other indexes.
 
